@@ -14,6 +14,7 @@ header{
 h1, h2{
 	font-family: 'Unkempt', cursive;
 }
+
 h2{
 	font-size: 30px;
 	margin-top:15px; 
@@ -24,8 +25,6 @@ header h1{
     text-align: center;
     text-transform: uppercase;
     font-size: 50;
-   
-	
 
 }
 
@@ -62,6 +61,7 @@ footer p{
 a{
 	color: white;
 }
+
 a:hover{
 	color: blue;
 	opacity: .5;
